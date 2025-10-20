@@ -1,0 +1,30 @@
+RELATÓRIO ANALÍTICO - CEARÁ TRANSPARENTE
+==================================================
+Data de geração: 19/10/2025 15:49
+
+RESUMO DOS DADOS:
+------------------------------
+Convênios: 125 registros
+Contratos: 500 registros
+Período: 01/01/2024 a 31/12/2024
+
+ESTATÍSTICAS DOS CONVÊNIOS:
+------------------------------
+Valor total: R$ 137,057,244.40
+Valor médio: R$ 1,096,457.96
+Maior valor: R$ 18,483,853.97
+
+ESTATÍSTICAS DOS CONTRATOS:
+------------------------------
+Valor total: R$ 377,586,616.59
+Valor médio: R$ 755,173.23
+Maior valor: R$ 192,819,485.29
+
+PRINCIPAIS ANÁLISES REALIZADAS:
+-----------------------------------
+• Análise exploratória de dados (AED)
+• Distribuição por modalidade/tipo
+• Identificação de órgãos mais ativos
+• Evolução temporal das contratações
+• Comparativo entre convênios e contratos
+• Validação da qualidade dos dados
